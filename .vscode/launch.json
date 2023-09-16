@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Exercicios.IntroducaoAProgramacaoOrientadaAObjetos.Java.Polimorfismo.Main",
+            "projectName": "PosEngenhariaDeSoftware_623fbe85"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
