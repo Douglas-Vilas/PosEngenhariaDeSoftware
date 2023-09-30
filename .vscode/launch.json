@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Exercicios.IntroducaoAProgramacaoOrientadaAObjetos.Java.Polimorfismo.MetodoToString.Main",
+            "projectName": "PosEngenhariaDeSoftware_623fbe85"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Exercicios.IntroducaoAProgramacaoOrientadaAObjetos.Java.Polimorfismo.SobrecargaDeMétodos.Main",
             "projectName": "PosEngenhariaDeSoftware_623fbe85"
         },
