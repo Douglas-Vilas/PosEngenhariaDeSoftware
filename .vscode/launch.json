@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Treeset",
+            "request": "launch",
+            "mainClass": "Exercicios.IntroducaoAProgramacaoOrientadaAObjetos.Java.Collections.Treeset",
+            "projectName": "PosEngenhariaDeSoftware_623fbe85"
+        },
+        {
+            "type": "java",
             "name": "Hashset",
             "request": "launch",
             "mainClass": "Exercicios.IntroducaoAProgramacaoOrientadaAObjetos.Java.Collections.Hashset",
