@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Linkedlist",
+            "request": "launch",
+            "mainClass": "Exercicios.IntroducaoAProgramacaoOrientadaAObjetos.Java.Collections.Linkedlist",
+            "projectName": "PosEngenhariaDeSoftware_623fbe85"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "Exercicios.IntroducaoAProgramacaoOrientadaAObjetos.Java.Collections.LinkedList",
+            "projectName": "PosEngenhariaDeSoftware_623fbe85"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Exercicios.IntroducaoAProgramacaoOrientadaAObjetos.Java.Collections.Main",
