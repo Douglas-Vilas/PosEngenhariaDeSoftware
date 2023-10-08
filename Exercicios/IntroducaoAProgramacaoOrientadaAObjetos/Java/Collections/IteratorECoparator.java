@@ -2,7 +2,7 @@ package Exercicios.IntroducaoAProgramacaoOrientadaAObjetos.Java.Collections;
 
 import java.util.*;
 
-public class Main {
+public class IteratorECoparator {
     public static void main(String[] args) {
         ArrayList<Integer> numeros = new ArrayList<>();
         numeros.add(1);
