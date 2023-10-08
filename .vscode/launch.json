@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Hashset",
+            "request": "launch",
+            "mainClass": "Exercicios.IntroducaoAProgramacaoOrientadaAObjetos.Java.Collections.Hashset",
+            "projectName": "PosEngenhariaDeSoftware_623fbe85"
+        },
+        {
+            "type": "java",
             "name": "Linkedlist",
             "request": "launch",
             "mainClass": "Exercicios.IntroducaoAProgramacaoOrientadaAObjetos.Java.Collections.Linkedlist",
